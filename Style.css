@@ -160,7 +160,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    background-image: url('hero_image.jpg');
+    background-image: URL("hero_image.jpg");
 }
 
 .hero-message {
